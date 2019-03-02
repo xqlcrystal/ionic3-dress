@@ -1,5 +1,7 @@
 {
   "name": "ionic3-dress",
-  "integrations": {},
+  "integrations": {
+    "cordova": {}
+  },
   "type": "ionic-angular"
 }
